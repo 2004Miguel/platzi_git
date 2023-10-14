@@ -1,0 +1,4 @@
+Este va a ser el archivo (otro porque borramos windows e instalamos Ubuntu) con el que vamos a trabar el curso de git
+
+Bueno. Por fin estamos continuando con el curso de git OTRA VEZ. 
+
