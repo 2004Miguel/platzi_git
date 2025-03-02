@@ -5,3 +5,5 @@ Bueno. Por fin estamos continuando con el curso de git OTRA VEZ.
 Este cambio se hizo desde github 
 
 Otra vez en el repo local
+
+Esto es con el fin de probar la nueva rama local "pruebas"
